@@ -4,7 +4,7 @@ Last 6 years I have been focused in learning mainly about js technologies and al
 
 Do you thing is a dangerous path?
 
-**andres-thefirst/andres-thefirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<-- **andres-thefirst/andres-thefirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
