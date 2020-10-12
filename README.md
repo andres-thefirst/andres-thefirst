@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<!--
+Last 6 years I have been focused in learning mainly about js technologies and algorithms🤓, I think it's time to build up new things. Knowing Js could be the key to create new apps not only for the web but also in smartphones and why not desktop.
+
+Do you thing is a dangerous path?
+
 **andres-thefirst/andres-thefirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
